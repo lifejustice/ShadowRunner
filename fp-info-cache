@@ -1,4 +1,4 @@
-16953748414515399
+16956919096138015
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52178,6 +52178,13 @@ ACAG0301-1575-T
 2
 2
 MyLibs
+CM1402
+
+
+0
+10
+10
+MyLibs
 Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical
 Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X
 connector harwin gecko
@@ -52218,7 +52225,7 @@ SKY65943_11
 
 0
 13
-13
+11
 MyLibs
 U.FL-R-SMT-110
 
@@ -52233,6 +52240,13 @@ USB4085-GF-A
 0
 20
 20
+MyLibs
+nRF9160
+
+
+0
+161
+127
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
