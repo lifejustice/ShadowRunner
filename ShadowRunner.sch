@@ -2189,39 +2189,6 @@ Wire Wire Line
 	7650 3550 8400 3550
 Wire Wire Line
 	6850 3300 8400 3300
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 5FFF17A9
-P 10650 10200
-F 0 "H1" H 10750 10246 50  0000 L CNN
-F 1 "MountingHole" H 10450 10100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 10650 10200 50  0001 C CNN
-F 3 "~" H 10650 10200 50  0001 C CNN
-	1    10650 10200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 5FFF1E5E
-P 11250 10200
-F 0 "H2" H 11350 10246 50  0000 L CNN
-F 1 "MountingHole" H 11000 10100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 11250 10200 50  0001 C CNN
-F 3 "~" H 11250 10200 50  0001 C CNN
-	1    11250 10200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 5FFF22E7
-P 11750 10200
-F 0 "H3" H 11850 10246 50  0000 L CNN
-F 1 "MountingHole" H 11650 10100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 11750 10200 50  0001 C CNN
-F 3 "~" H 11750 10200 50  0001 C CNN
-	1    11750 10200
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	14000 3550 14300 3550
 Wire Wire Line
