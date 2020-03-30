@@ -3408,7 +3408,7 @@
   )
 
   (module MountingHole:MountingHole_2.5mm (layer F.Cu) (tedit 56D1B4CB) (tstamp 5E821BE3)
-    (at 72.75 17.25)
+    (at 127.5 37)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (path /5FFF17A9)
@@ -3428,7 +3428,7 @@
   )
 
   (module MountingHole:MountingHole_2.5mm (layer F.Cu) (tedit 56D1B4CB) (tstamp 5E821BEB)
-    (at 67.75 57.25)
+    (at 127.75 54.5)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (path /5FFF1E5E)
@@ -3448,7 +3448,7 @@
   )
 
   (module MountingHole:MountingHole_2.5mm (layer F.Cu) (tedit 56D1B4CB) (tstamp 5E826C51)
-    (at 231 2.75)
+    (at 173.75 54.75)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (path /5FFF22E7)

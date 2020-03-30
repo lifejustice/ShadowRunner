@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name NRF9160)(type Legacy)(uri C:/Workspace/Kicad/MyLibs/NRF9160-SIBA-R/NRF9160-SIBA-R.lib)(options "")(descr ""))
+  (lib (name ShadowRunner-rescue)(type Legacy)(uri ${KIPRJMOD}/ShadowRunner-rescue.lib)(options "")(descr ""))
 )
