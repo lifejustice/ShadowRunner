@@ -2386,4 +2386,15 @@ Wire Wire Line
 Wire Wire Line
 	9400 1300 9650 1300
 Connection ~ 9650 1300
+$Comp
+L power:+1V8 #PWR?
+U 1 1 60C9BA0A
+P 8250 2500
+F 0 "#PWR?" H 8250 2350 50  0001 C CNN
+F 1 "+1V8" H 8265 2673 50  0000 C CNN
+F 2 "" H 8250 2500 50  0001 C CNN
+F 3 "" H 8250 2500 50  0001 C CNN
+	1    8250 2500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
