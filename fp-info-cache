@@ -1,4 +1,4 @@
-16958505116162802
+16960092014555049
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52184,6 +52184,13 @@ CM1402
 0
 10
 10
+MyLibs
+D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
 MyLibs
 Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical
 Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X
